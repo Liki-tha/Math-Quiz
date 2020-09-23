@@ -1,0 +1,66 @@
+body{
+	
+	background-size: cover;
+}
+
+	.login_div1 , .login_div2
+	{
+		background-color: cadetblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+	
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	color: cyan;
+}
+
+#login:hover{
+	color:cyan;
+    
+}
+
+#div{
+	margin-left: 750px;
+	background-color: white;
+	margin-top: 100px;
+	margin-right: 50px;
+	margin-bottom: 0px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.container{
+	text-align: center;
+	margin-bottom: 200px;
+}
+
+#body{
+	background-image:url(https://en.bcdn.biz/Images/2020/8/6/04531a81-97ae-4fbd-8efe-0570c7780326.jpg);
+	background-size: cover;
+}
+
+
+
